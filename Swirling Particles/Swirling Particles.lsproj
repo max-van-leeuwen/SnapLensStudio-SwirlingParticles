@@ -1,0 +1,1520 @@
+{
+    "lens_id": "",
+    "document_id": "SNFBZQA5QzMfcCa9U3kS",
+    "original_document_id": "XJYGIMQAIW16sSu7TYqG",
+    "version": "29",
+    "lastChanged": "1661114140000",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "25",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "25",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Cinematic Glow"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "Example"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "Example",
+                        "Colorful Glow"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "Example",
+                        "occlude"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "Example",
+                        "torus"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "Example",
+                        "triangle"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "Extra"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "Extra",
+                        "Glow Example"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "Extra",
+                        "Glow Occluder"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "System",
+                        "Cinematic Glow"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "System",
+                        "Cinematic Glow Renderer"
+                    ],
+                    [
+                        "Cinematic Glow",
+                        "System",
+                        "Glow Matte Target"
+                    ],
+                    [
+                        "Other"
+                    ],
+                    [
+                        "Particles"
+                    ],
+                    [
+                        "Render Target + Glow"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Swirling Particles",
+            "applicability": "2",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
+            }
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1660838853381397:73046"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "1660838958549171:81005"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1660838853381397:73046",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1660838853461876:73085",
+                    "name": "Files\/File10.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1660838853484081:73099",
+                    "name": "Files\/File12.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1660838853505426:73113",
+                    "name": "Files\/File14.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1660838853510198:73124",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1660838853515251:73132",
+                    "name": "Files\/File16",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1660838853586616:73150",
+                    "name": "Files\/File18.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1660838853599033:73179",
+                    "name": "Files\/File19",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1660838853660650:73270",
+                    "name": "Files\/File21",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1660838884359533:75398",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1660838958549171:81005",
+                    "name": "Files\/File26",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1660838958591602:81046",
+                    "name": "Files\/File27",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1660838958648475:81062",
+                    "name": "Files\/File29",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1660838958690771:81076",
+                    "name": "Files\/File31",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1660838958734912:81090",
+                    "name": "Files\/File33.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1660838952502108:80625"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.lsmat"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.mesh"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.mesh"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.mesh"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.mesh"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.mesh"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.mesh"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.lsmat"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.js"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.mesh"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.mesh"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.mesh"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.lsmat"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.lsmat"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.js"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.lsvfx"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "27882",
+                        "v": "Cinematic Glow"
+                    },
+                    {
+                        "k": "27883",
+                        "v": "Cinematic Glow\/Example"
+                    },
+                    {
+                        "k": "27884",
+                        "v": "Cinematic Glow\/Example\/Colorful Glow.lsmat"
+                    },
+                    {
+                        "k": "27885",
+                        "v": "Cinematic Glow\/Example\/occlude.mesh"
+                    },
+                    {
+                        "k": "27886",
+                        "v": "Cinematic Glow\/Example\/torus.mesh"
+                    },
+                    {
+                        "k": "27887",
+                        "v": "Cinematic Glow\/Example\/triangle.mesh"
+                    },
+                    {
+                        "k": "27888",
+                        "v": "Cinematic Glow\/System"
+                    },
+                    {
+                        "k": "27889",
+                        "v": "Cinematic Glow\/System\/Cinematic Glow Renderer.lsmat"
+                    },
+                    {
+                        "k": "27890",
+                        "v": "Cinematic Glow\/System\/Cinematic Glow.js"
+                    },
+                    {
+                        "k": "27891",
+                        "v": "Cinematic Glow\/Extra"
+                    },
+                    {
+                        "k": "27892",
+                        "v": "Cinematic Glow\/Extra\/Glow Occluder.lsmat"
+                    },
+                    {
+                        "k": "27893",
+                        "v": "Cinematic Glow\/Extra\/Glow Example.lsmat"
+                    },
+                    {
+                        "k": "27895",
+                        "v": "Particles.lsvfx"
+                    },
+                    {
+                        "k": "27896",
+                        "v": "Other"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "27884",
+                        "v": "e882d5a108985c3fd1e8e34de60f96ac"
+                    },
+                    {
+                        "k": "27885",
+                        "v": "6170d7426a23af2cab9f1cab2ad515b2"
+                    },
+                    {
+                        "k": "27886",
+                        "v": "a0a160aa4df1261a1757ed5683b4ef10"
+                    },
+                    {
+                        "k": "27887",
+                        "v": "f4ccbf4b0b6f063859f4f9acf4fd519b"
+                    },
+                    {
+                        "k": "27889",
+                        "v": "a8269cf184bc5d91722cfce70d679ec9"
+                    },
+                    {
+                        "k": "27890",
+                        "v": "b333ee74d659fd8ef743bb56f2eece08"
+                    },
+                    {
+                        "k": "27892",
+                        "v": "6a30fc4d0eb0fbe288e3853c67c3e140"
+                    },
+                    {
+                        "k": "27893",
+                        "v": "39a2ba98198c4ad02e131e7a533207e7"
+                    },
+                    {
+                        "k": "27894",
+                        "v": "662ece05e30282f62f87c5f988c50fc2"
+                    },
+                    {
+                        "k": "27895",
+                        "v": "7bcdfe06843471d56001631d62331768"
+                    },
+                    {
+                        "k": "27896",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-08-21T22:35:17",
+                        "name": "Public",
+                        "hash": "91d70fe14f64c0a9540afce892771c90",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-08-21T22:34:52",
+                                "name": "Other",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-21T22:34:52",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-08-21T22:34:29",
+                                "name": "Particles.lsvfx",
+                                "hash": "7bcdfe06843471d56001631d62331768",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-08-21T22:35:11",
+                                "name": "Cinematic Glow",
+                                "hash": "415b78df509f8105288b9ee8ec70320a",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-08-21T22:34:43",
+                                        "name": "Example",
+                                        "hash": "cedc18d9015a81b9bff136d7aedd133b",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-18T18:07:33",
+                                                "name": "triangle.mesh",
+                                                "hash": "f4ccbf4b0b6f063859f4f9acf4fd519b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-18T18:07:33",
+                                                "name": "torus.mesh",
+                                                "hash": "a0a160aa4df1261a1757ed5683b4ef10",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-21T22:34:29",
+                                                "name": "Colorful Glow.lsmat",
+                                                "hash": "e882d5a108985c3fd1e8e34de60f96ac",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-18T18:07:33",
+                                                "name": "occlude.mesh",
+                                                "hash": "6170d7426a23af2cab9f1cab2ad515b2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-18T18:07:33",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-08-21T22:34:43",
+                                        "name": "System",
+                                        "hash": "85f374aa512bd5e7621ed282619a1a7f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-18T18:07:33",
+                                                "name": "Cinematic Glow.js",
+                                                "hash": "b333ee74d659fd8ef743bb56f2eece08",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-18T18:07:33",
+                                                "name": "Cinematic Glow Renderer.lsmat",
+                                                "hash": "a8269cf184bc5d91722cfce70d679ec9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-18T18:07:33",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-08-21T22:34:43",
+                                        "name": "Extra",
+                                        "hash": "98fd4bedb6089840920584064d9679bc",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-18T18:07:33",
+                                                "name": "Glow Example.lsmat",
+                                                "hash": "39a2ba98198c4ad02e131e7a533207e7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-18T18:07:33",
+                                                "name": "Glow Occluder.lsmat",
+                                                "hash": "6a30fc4d0eb0fbe288e3853c67c3e140",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-18T18:07:33",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-18T18:07:33",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-07-22T00:48:42",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Cinematic Glow",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27882",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Example",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27883",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Colorful Glow",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1660838853381397:73046",
+                                        "fileId": "8",
+                                        "originalId": "9",
+                                        "publicId": "27884",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "occlude",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1660838853461876:73085",
+                                        "fileId": "10",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27885",
+                                        "source": "\/Users\/max\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioWhOBraEZdqWJ\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "8",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "8",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "torus",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1660838853484081:73099",
+                                        "fileId": "12",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27886",
+                                        "source": "\/Users\/max\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioWhOBraEZdqWJ\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "8",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "8",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "triangle",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1660838853505426:73113",
+                                        "fileId": "14",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27887",
+                                        "source": "\/Users\/max\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioWhOBraEZdqWJ\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "8",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "8",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "System",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27888",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Glow Matte Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1660838853510198:73124",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Cinematic Glow Renderer",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "18",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1660838853515251:73132",
+                                        "fileId": "16",
+                                        "originalId": "17",
+                                        "publicId": "27889",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "Cinematic Glow",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1660838853586616:73150",
+                                        "fileId": "18",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27890",
+                                        "source": "\/Users\/max\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioWhOBraEZdqWJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Extra",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27891",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Glow Occluder",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1660838853599033:73179",
+                                        "fileId": "19",
+                                        "originalId": "20",
+                                        "publicId": "27892",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Glow Example",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1660838853660650:73270",
+                                        "fileId": "21",
+                                        "originalId": "22",
+                                        "publicId": "27893",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27896",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Physics Root World Settings",
+                                "type": "36",
+                                "subtype": "1",
+                                "resourceId": "12",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "8675309:9035768",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Render Target + Glow",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1660838884359533:75398",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Particles",
+                        "type": "23",
+                        "subtype": "0",
+                        "resourceId": "23",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "1660838958549171:81005",
+                        "fileId": "26",
+                        "originalId": "34",
+                        "publicId": "27895",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "System 39",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "system_id": "39"
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Rendering",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "24",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1660838958591602:81046",
+                                        "fileId": "27",
+                                        "originalId": "28",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "crossCompilingAllowed": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "Feedback",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1660838958648475:81062",
+                                        "fileId": "29",
+                                        "originalId": "30",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "crossCompilingAllowed": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "Simulation",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "26",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1660838958690771:81076",
+                                        "fileId": "31",
+                                        "originalId": "32",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "crossCompilingAllowed": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "Managing",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "27",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1660838958734912:81090",
+                                        "fileId": "33",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/max\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioWhOBraEZdqWJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1660838958549171:81005",
+                        "path_list": [
+                            "Particles"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1660838853461876:73085",
+                    "v": {
+                        "infos": {
+                            "originalSize": "680",
+                            "compressedSize": "672",
+                            "originalRAM": "648",
+                            "compressedRAM": "456",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "true",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": [
+                                    {
+                                        "k": "normal",
+                                        "v": "8"
+                                    },
+                                    {
+                                        "k": "position",
+                                        "v": "8"
+                                    }
+                                ],
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "11",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "e99ebf144964fd86be35c36dd6a17aae",
+                                    "settings_hash": "12258712744712242611"
+                                },
+                                "v": "23"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1660838853484081:73099",
+                    "v": {
+                        "infos": {
+                            "originalSize": "12921",
+                            "compressedSize": "8400",
+                            "originalRAM": "21168",
+                            "compressedRAM": "16464",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "true",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": [
+                                    {
+                                        "k": "normal",
+                                        "v": "8"
+                                    },
+                                    {
+                                        "k": "position",
+                                        "v": "8"
+                                    }
+                                ],
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "13",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "e11f45cb23f23f4a417f82cb8eeeb7f9",
+                                    "settings_hash": "12258712744712242611"
+                                },
+                                "v": "24"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1660838853505426:73113",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2666",
+                            "compressedSize": "1730",
+                            "originalRAM": "3708",
+                            "compressedRAM": "2724",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "true",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": [
+                                    {
+                                        "k": "normal",
+                                        "v": "8"
+                                    },
+                                    {
+                                        "k": "position",
+                                        "v": "8"
+                                    }
+                                ],
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "15",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "8e7d164db2e6d37bd95987f790b26185",
+                                    "settings_hash": "12258712744712242611"
+                                },
+                                "v": "25"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1660838853715431:73288",
+                    "v": "6PK2aeKSon3QIGFdxXe3iC"
+                }
+            ]
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.25.1"
+}
