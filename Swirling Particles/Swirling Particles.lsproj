@@ -3,7 +3,7 @@
     "document_id": "EbTEslZ5wA6NkiYmeX1q",
     "original_document_id": "XJYGIMQAIW16sSu7TYqG",
     "version": "29",
-    "lastChanged": "1661114488751",
+    "lastChanged": "1661115023601",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -88,15 +88,7 @@
                         "Glow Matte Target"
                     ],
                     [
-                        "Echopark"
-                    ],
-                    [
-                        "Echopark",
-                        "Diff"
-                    ],
-                    [
-                        "Echopark",
-                        "Specular"
+                        "Other"
                     ],
                     [
                         "Particles"
@@ -255,7 +247,7 @@
             }
         },
         "Material::UiComponent": {
-            "active_graph_asset": "-1:-1"
+            "active_graph_asset": "1660838853381397:73046"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -282,22 +274,6 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
-                },
-                {
-                    "resId": "10",
-                    "uid": "1588296316843646:534374",
-                    "name": "Files\/File3.jpeg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "11",
-                    "uid": "1588296316857901:534385",
-                    "name": "Files\/File5.jpeg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
                 },
                 {
                     "resId": "12",
@@ -449,10 +425,7 @@
         },
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1517446348227994:84813",
-                "1": "1517446348228144:84822",
-                "2": "1528843813151434:5126",
-                "3": "1660838952502108:80625"
+                "0": "1660838952502108:80625"
             }
         },
         "LayerComponent": {
@@ -475,26 +448,6 @@
         },
         "IFileManager": {
             "pathes": [
-                {
-                    "k": "3",
-                    "v": "Files\/File3.jpeg"
-                },
-                {
-                    "k": "4",
-                    "v": "Files\/File4.jpeg"
-                },
-                {
-                    "k": "5",
-                    "v": "Files\/File5.jpeg"
-                },
-                {
-                    "k": "6",
-                    "v": "Files\/File6.jpeg"
-                },
-                {
-                    "k": "7",
-                    "v": "Files\/File7.hdr"
-                },
                 {
                     "k": "8",
                     "v": "Files\/File8"
@@ -621,10 +574,6 @@
             "public": {
                 "pathes": [
                     {
-                        "k": "967",
-                        "v": "Echopark.hdr"
-                    },
-                    {
                         "k": "27882",
                         "v": "Cinematic Glow"
                     },
@@ -675,6 +624,10 @@
                     {
                         "k": "27895",
                         "v": "Particles.lsvfx"
+                    },
+                    {
+                        "k": "27896",
+                        "v": "Other"
                     }
                 ],
                 "hashes": [
@@ -692,7 +645,7 @@
                     },
                     {
                         "k": "27884",
-                        "v": "c9f9f32a3933c16f33e577f9d1b8f2e0"
+                        "v": "3c2bea542f124132fa4a9dce6e1f0e71"
                     },
                     {
                         "k": "27885",
@@ -708,7 +661,7 @@
                     },
                     {
                         "k": "27889",
-                        "v": "a8269cf184bc5d91722cfce70d679ec9"
+                        "v": "07590d23d1b6c0f8e0401c39e1994fd3"
                     },
                     {
                         "k": "27890",
@@ -716,11 +669,11 @@
                     },
                     {
                         "k": "27892",
-                        "v": "6a30fc4d0eb0fbe288e3853c67c3e140"
+                        "v": "43741fa8e7bf272d9e31c81dd3aec3ea"
                     },
                     {
                         "k": "27893",
-                        "v": "39a2ba98198c4ad02e131e7a533207e7"
+                        "v": "6e4033b87afe6ad4470c304c63e065d1"
                     },
                     {
                         "k": "27894",
@@ -728,7 +681,7 @@
                     },
                     {
                         "k": "27895",
-                        "v": "a188ceec11d4cea9b08cc277ed9e1841"
+                        "v": "581ed7f5dff6f3f2e4b6a6c2f549c261"
                     },
                     {
                         "k": "27896",
@@ -738,35 +691,43 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-08-21T22:36:54",
+                        "lastModified": "2022-08-21T22:43:35",
                         "name": "Public",
-                        "hash": "ecc59c63299a9bf20402c792eb0bcae9",
+                        "hash": "785eced7da817b39a1916dc73a656cbb",
                         "children": [
                             {
-                                "isFolder": "false",
-                                "lastModified": "2022-08-21T22:36:51",
-                                "name": "Particles.lsvfx",
-                                "hash": "a188ceec11d4cea9b08cc277ed9e1841",
-                                "children": ""
+                                "isFolder": "true",
+                                "lastModified": "2022-08-21T22:43:35",
+                                "name": "Other",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-21T22:43:21",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-07-22T00:48:42",
-                                "name": "Echopark.hdr",
-                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "lastModified": "2022-08-21T22:42:33",
+                                "name": "Particles.lsvfx",
+                                "hash": "581ed7f5dff6f3f2e4b6a6c2f549c261",
                                 "children": ""
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-08-18T19:09:41",
+                                "lastModified": "2022-08-21T22:41:28",
                                 "name": "Cinematic Glow",
-                                "hash": "87ee773d15922c134a1475edf64e4881",
+                                "hash": "76d7cac38dd95881d5bd79f6f20b8577",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-08-21T22:36:54",
+                                        "lastModified": "2022-08-21T22:42:36",
                                         "name": "Example",
-                                        "hash": "3fff563602ca412465a239ab4a29fa5b",
+                                        "hash": "7a5f9d95938f18dbb7a9d0ed1226abf5",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -784,9 +745,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-08-21T22:36:50",
+                                                "lastModified": "2022-08-21T22:42:33",
                                                 "name": "Colorful Glow.lsmat",
-                                                "hash": "c9f9f32a3933c16f33e577f9d1b8f2e0",
+                                                "hash": "3c2bea542f124132fa4a9dce6e1f0e71",
                                                 "children": ""
                                             },
                                             {
@@ -807,9 +768,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-08-18T19:09:41",
+                                        "lastModified": "2022-08-21T22:43:33",
                                         "name": "System",
-                                        "hash": "85f374aa512bd5e7621ed282619a1a7f",
+                                        "hash": "f265b0ee5f1bfd3907571a76a18c7818",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -820,9 +781,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-08-18T18:07:33",
+                                                "lastModified": "2022-08-21T22:42:33",
                                                 "name": "Cinematic Glow Renderer.lsmat",
-                                                "hash": "a8269cf184bc5d91722cfce70d679ec9",
+                                                "hash": "07590d23d1b6c0f8e0401c39e1994fd3",
                                                 "children": ""
                                             },
                                             {
@@ -836,22 +797,22 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-08-18T19:09:41",
+                                        "lastModified": "2022-08-21T22:43:33",
                                         "name": "Extra",
-                                        "hash": "98fd4bedb6089840920584064d9679bc",
+                                        "hash": "98a54e013a4553d8ab3892bbbe9c03b8",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-08-18T18:07:33",
+                                                "lastModified": "2022-08-21T22:42:33",
                                                 "name": "Glow Example.lsmat",
-                                                "hash": "39a2ba98198c4ad02e131e7a533207e7",
+                                                "hash": "6e4033b87afe6ad4470c304c63e065d1",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-08-18T18:07:33",
+                                                "lastModified": "2022-08-21T22:42:33",
                                                 "name": "Glow Occluder.lsmat",
-                                                "hash": "6a30fc4d0eb0fbe288e3853c67c3e140",
+                                                "hash": "43741fa8e7bf272d9e31c81dd3aec3ea",
                                                 "children": ""
                                             },
                                             {
@@ -899,85 +860,57 @@
                 "additional": "",
                 "resources": [
                     {
-                        "name": "Render Target",
-                        "type": "1",
-                        "subtype": "1",
-                        "resourceId": "1",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1:1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Device Camera Texture",
-                        "type": "1",
-                        "subtype": "3",
-                        "resourceId": "2",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "2:2",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Physics Root World Settings",
-                        "type": "36",
-                        "subtype": "1",
-                        "resourceId": "12",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "8675309:9035768",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Echopark",
-                        "type": "9",
+                        "name": "Other",
+                        "type": "0",
                         "subtype": "-1",
                         "resourceId": "-1",
-                        "dependency": "2",
+                        "dependency": "0",
                         "hidden": "false",
                         "uid": "-1:-1",
-                        "fileId": "7",
+                        "fileId": "18446744073709551615",
                         "originalId": "18446744073709551615",
-                        "publicId": "967",
+                        "publicId": "27896",
                         "source": "",
                         "additional": "",
                         "resources": [
                             {
-                                "name": "Diff",
+                                "name": "Render Target",
                                 "type": "1",
-                                "subtype": "9",
-                                "resourceId": "10",
-                                "dependency": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1588296316843646:534374",
-                                "fileId": "3",
-                                "originalId": "4",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",
                                 "source": "",
                                 "additional": ""
                             },
                             {
-                                "name": "Specular",
+                                "name": "Device Camera Texture",
                                 "type": "1",
-                                "subtype": "9",
-                                "resourceId": "11",
-                                "dependency": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1588296316857901:534385",
-                                "fileId": "5",
-                                "originalId": "6",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Physics Root World Settings",
+                                "type": "36",
+                                "subtype": "1",
+                                "resourceId": "12",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "8675309:9035768",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",
                                 "source": "",
                                 "additional": ""
@@ -1342,7 +1275,16 @@
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1660838958549171:81005",
+                        "path_list": [
+                            "Particles"
+                        ]
+                    }
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
